@@ -1,0 +1,994 @@
+{
+"providerName": "Grito TV",
+"language": "en-US",
+"lastUpdated": "2016-10-06T18:12:32.125Z",
+"movies": [
+{
+"id": "a00a00a00a01",
+"title": "Destino",
+"shortDescription": "Feature film written and directed by Julio Gonzalez from Rio Grande Valley, Texas.",
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/Destino800x450.jpg",
+"genres": [
+"drama"
+],
+"tags": [
+"Feature",
+"Drama",
+"Romance"
+],
+"releaseDate": "2019-07-11",
+"content": {
+"dateAdded": "2015-06-11T14:14:54.431Z",
+"duration": 5250,
+"adBreaks": [
+"00:00:00",
+"00:43:00",
+"01:27:30"
+],
+"videos": [
+{
+"url": "https://player.vimeo.com/external/298720327.hd.mp4?s=bb6bc4a3ebc4fbd09fe2c3b20a604f9199e7ed18&amp;profile_id=175",
+"quality": "HD",
+"videoType": "MP4"
+}
+]
+}
+},
+{
+"id": "a00a00a00a02",
+"title": "Jornalero",
+"shortDescription": "Juan is an undocumented immigrant who came to the United States from Mexico. He and his mom to look for a better life, but all they find are problems and rejection of people, in the end Juan finds a person who extends his hand and helps him but is too late because he decided to return to Mexico. Feature film written and directed by Julio Gonzalez from Rio Grande Valley, Texas.",
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/Jornalero800x450.jpg",
+"genres": [
+"drama"
+],
+"tags": [
+"Feature",
+"Drama",
+"Romance"
+],
+"releaseDate": "2019-07-11",
+"content": {
+"dateAdded": "2015-06-11T14:14:54.431Z",
+"duration": 3423,
+"adBreaks": [
+"00:00:00",
+"00:33:00",
+"00:57:03"
+],
+"videos": [
+{
+"url": "https://player.vimeo.com/external/348711300.hd.mp4?s=a8eaa5ad86792c6edd4bdcc1a3c3125e9a33db9e&amp;profile_id=175",
+"quality": "HD",
+"videoType": "MP4"
+}
+]
+}
+},
+{
+"id": "a00a00a00a03",
+"title": "Mujeres De La Noche",
+"shortDescription": "Feature film directed by Raul Gonzalez from Matamoros, Mexico.",
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/MujeresNoche800x450.jpg",
+"genres": [
+"action"
+],
+"tags": [
+"Feature",
+"Narco",
+"Action"
+],
+"releaseDate": "2019-07-11",
+"content": {
+"dateAdded": "2015-06-11T14:14:54.431Z",
+"duration": 6517,
+"adBreaks": [
+"00:00:00",
+"00:49:00",
+"01:48:37"
+],
+"videos": [
+{
+"url": "https://player.vimeo.com/external/243709946.sd.mp4?s=c0e86df106ecc81c3f8fe0bfe29036d82a896164&amp;profile_id=165",
+"quality": "HD",
+"videoType": "MP4"
+}
+]
+}
+},
+{
+"id": "a00a00a00a04",
+"title": "Una Buena Vida",
+"shortDescription": "Feature film written and directed by Max Rojas from Brownsville, Texas.",
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/BuenaVida800x450.jpg",
+"genres": [
+"action"
+],
+"tags": [
+"Feature",
+"Action",
+"Narco"
+],
+"releaseDate": "2019-07-11",
+"content": {
+"dateAdded": "2015-06-11T14:14:54.431Z",
+"duration": 5253,
+"adBreaks": [
+"00:00:00",
+"00:43:00",
+"01:27:33"
+],
+"videos": [
+{
+"url": "https://player.vimeo.com/external/243570678.sd.mp4?s=5a35195077ba619136a41cd9d2a90d3ce9feb417&amp;profile_id=164",
+"quality": "HD",
+"videoType": "MP4"
+}
+]
+}
+},
+{
+"id": "a00a00a00a05",
+"title": "El Matador",
+"shortDescription": "Feature film written and directed by Max Rojas from Brownsville, Texas.",
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/Matador800x450.jpg",
+"genres": [
+"action"
+],
+"tags": [
+"Feature",
+"Action",
+"Narco",
+"Thriller"
+],
+"releaseDate": "2019-07-11",
+"content": {
+"dateAdded": "2015-06-11T14:14:54.431Z",
+"duration": 6227,
+"adBreaks": [
+"00:00:00",
+"00:43:00",
+"01:43:47"
+],
+"videos": [
+{
+"url": "https://player.vimeo.com/external/213601353.hd.mp4?s=71a24afbe4d4792806a0839126c484c175269fe2&amp;profile_id=174",
+"quality": "HD",
+"videoType": "MP4"
+}
+]
+}
+},
+{
+"id": "a00a00a00a24",
+"title": "Doble Personalidad",
+"shortDescription": "Largometraje del legendario productor raul gonzalez. Sigue a nuestro personaje principal mientras lidian con las presiones del mundo criminal que viven con una doble personalidad.",
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/CineBravoDoblePersonalidad800x450.jpg",
+"genres": [
+"action"
+],
+"tags": [
+"Feature",
+"Drama",
+"Action"
+],
+"releaseDate": "2019-07-11",
+"content": {
+"dateAdded": "2015-06-11T14:14:54.431Z",
+"duration": 5487,
+"adBreaks": [
+"00:00:00",
+"00:43:00",
+"01:31:27"
+],
+"videos": [
+{
+"url": "https://player.vimeo.com/external/243750928.sd.mp4?s=3891a86d41acd39bc1acdf89c1fdb2c0281cb221&amp;profile_id=165",
+"quality": "HD",
+"videoType": "MP4"
+}
+]
+}
+},
+{
+"id": "a00a00a00a25",
+"title": "Viejo Sombreron",
+"shortDescription": "Largometraje del legendario productor Raul Gonzalez. Sigue a nuestro personaje principal, un inmigrante ignorante que se encuentra a sí mismo como un héroe de acción de su propia historia.",
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/CineBravoViejoSombreron800x450.jpg",
+"genres": [
+"drama"
+],
+"tags": [
+"Feature",
+"Drama",
+"Action"
+],
+"releaseDate": "2019-07-11",
+"content": {
+"dateAdded": "2015-06-11T14:14:54.431Z",
+"duration": 5481,
+"adBreaks": [
+"00:00:00",
+"00:43:00",
+"01:31:21"
+],
+"videos": [
+{
+"url": "https://player.vimeo.com/external/246625028.hd.mp4?s=ea4068f74c9030c93a69ef9025e42dd7ca63691d&amp;profile_id=175",
+"quality": "HD",
+"videoType": "MP4"
+}
+]
+}
+},
+{
+"id": "a00a00a00a26",
+"title": "Primos Rivales ",
+"shortDescription": "Largometraje del legendario productor Raúl González. Sigue a nuestros personajes principales mientras navegan por las aguas traicioneras del inframundo criminal.",
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/CineBravoPrimosRivales800x450.jpg",
+"genres": [
+"action"
+],
+"tags": [
+"Feature",
+"Drama",
+"Action"
+],
+"releaseDate": "2019-07-11",
+"content": {
+"dateAdded": "2015-06-11T14:14:54.431Z",
+"duration": 5672,
+"adBreaks": [
+"00:00:00",
+"00:43:00",
+"01:34:32"
+],
+"videos": [
+{
+"url": "https://player.vimeo.com/external/243704178.sd.mp4?s=69bffb0a8a91084ed6314034bf444c1085c4931d&amp;profile_id=165",
+"quality": "HD",
+"videoType": "MP4"
+}
+]
+}
+},
+{
+"id": "a00a00a00a27",
+"title": "Los Pistoleros",
+"shortDescription": "Largometraje del legendario productor Raúl González. Los asesinos y los jefes de la mafia luchan por el territorio y el poder en esta película llena de acción.",
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/CineBravoLosPistoleros800x450.jpg",
+"genres": [
+"action"
+],
+"tags": [
+"Feature",
+"Drama",
+"Action"
+],
+"releaseDate": "2019-07-11",
+"content": {
+"dateAdded": "2015-06-11T14:14:54.431Z",
+"duration": 6174,
+"adBreaks": [
+"00:00:00",
+"00:43:00",
+"01:42:54"
+],
+"videos": [
+{
+"url": "https://player.vimeo.com/external/243698097.sd.mp4?s=4b02481c40f86b47bef9c38001dad40801a360ff&amp;profile_id=165",
+"quality": "HD",
+"videoType": "MP4"
+}
+]
+}
+},
+{
+"id": "a00a00a00a28",
+"title": "Coyotes de la Frontera",
+"shortDescription": "Largometraje del legendario productor Raúl González. Los jefes de la mafia y los contrabandistas explotan las vidas de inmigrantes desesperados que buscan una vida mejor.",
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/CineBravoCoyotesFrontera800x450.jpg",
+"genres": [
+"drama"
+],
+"tags": [
+"Feature",
+"Drama",
+"Action"
+],
+"releaseDate": "2019-07-11",
+"content": {
+"dateAdded": "2015-06-11T14:14:54.431Z",
+"duration": 7178,
+"adBreaks": [
+"00:00:00",
+"00:43:00",
+"01:59:38"
+],
+"videos": [
+{
+"url": "https://player.vimeo.com/external/243690163.sd.mp4?s=79f7a35aea722a1fc2a9e7355aa93773bc6aa20b&amp;profile_id=165",
+"quality": "HD",
+"videoType": "MP4"
+}
+]
+}
+},
+{
+"id": "a00a00a00a29",
+"title": "Asunto Personal",
+"shortDescription": "Largometraje del legendario productor Raúl González. Cuando un hombre peligroso busca venganza, los ataques se vuelven personales en esta película llena de acción.",
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/CineBravoAsuntoPersonal800x450.jpg",
+"genres": [
+"action"
+],
+"tags": [
+"Feature",
+"Drama",
+"Action"
+],
+"releaseDate": "2019-07-11",
+"content": {
+"dateAdded": "2015-06-11T14:14:54.431Z",
+"duration": 5643,
+"adBreaks": [
+"00:00:00",
+"00:43:00",
+"01:34:03"
+],
+"videos": [
+{
+"url": "https://player.vimeo.com/external/243683637.sd.mp4?s=2e70274bea87676020f41c1723f6ed90d06b33c1&amp;profile_id=165",
+"quality": "HD",
+"videoType": "MP4"
+}
+]
+}
+},
+{
+"id": "a00a00a00a30",
+"title": "Infiltrado",
+"shortDescription": "Largometraje del legendario productor Raúl González. Infiltrarse en el imperio criminal de un peligroso jefe de la mafia es muy peligroso. ¿Hasta dónde puede llegar nuestro héroe antes de ser asesinado?",
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/CineBravoInfiltrado800x450.jpg",
+"genres": [
+"action"
+],
+"tags": [
+"Feature",
+"Drama",
+"Action"
+],
+"releaseDate": "2019-07-11",
+"content": {
+"dateAdded": "2015-06-11T14:14:54.431Z",
+"duration": 6320,
+"adBreaks": [
+"00:00:00",
+"00:43:00",
+"01:45:20"
+],
+"videos": [
+{
+"url": "https://player.vimeo.com/external/243577315.sd.mp4?s=9a4a6d09cd2972e156fc905db0efba5912534cbc&amp;profile_id=165",
+"quality": "HD",
+"videoType": "MP4"
+}
+]
+}
+},
+{
+"id": "a00a00a00a31",
+"title": "Gente Violenta 4",
+"shortDescription": "Largometraje del legendario productor Raúl González. Un jefe de la mafia tiene que ejercer su poder y dominio sobre aquellos que se atreverían a amenazar su reinado.",
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/CineBravoGenteViolenta04800x450.jpg",
+"genres": [
+"action"
+],
+"tags": [
+"Feature",
+"Drama",
+"Action"
+],
+"releaseDate": "2019-07-11",
+"content": {
+"dateAdded": "2015-06-11T14:14:54.431Z",
+"duration": 5261,
+"adBreaks": [
+"00:00:00",
+"00:43:00",
+"01:27:41"
+],
+"videos": [
+{
+"url": "https://player.vimeo.com/external/243574852.sd.mp4?s=8624f387e810a9db6e03e3cc52c943d58415f82b&amp;profile_id=165",
+"quality": "HD",
+"videoType": "MP4"
+}
+]
+}
+},
+{
+"id": "a00a00a00a32",
+"title": "Los Siete Sellos de la Santa Muerte",
+"shortDescription": "Largometraje del legendario productor Raúl González. Los detectives luchan por encontrar y arrestar a un peligroso asesino en serie que plaga las calles de una ciudad desprevenida.",
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/CineBravoSieteSellosSantaMuerte800x450.jpg",
+"genres": [
+"drama"
+],
+"tags": [
+"Feature",
+"Drama",
+"Action"
+],
+"releaseDate": "2019-07-11",
+"content": {
+"dateAdded": "2015-06-11T14:14:54.431Z",
+"duration": 6217,
+"adBreaks": [
+"00:00:00",
+"00:43:00",
+"01:43:37"
+],
+"videos": [
+{
+"url": "https://player.vimeo.com/external/243567271.sd.mp4?s=50778789517d6598f11bd879b9f257cc366343f0&amp;profile_id=165",
+"quality": "HD",
+"videoType": "MP4"
+}
+]
+}
+},
+{
+"id": "a00a00a00a33",
+"title": "De La Misma Sangre",
+"shortDescription": "Largometraje del legendario productor Raúl González. Dos hermanos se separaron al nacer. Uno se convierte en un hombre de la ley y el otro en un hombre delictivo. Se reencuentran y deben elegir a quién leales, sangre o dinero.",
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/CineBravoMismaSangre800x450.jpg",
+"genres": [
+"action"
+],
+"tags": [
+"Feature",
+"Drama",
+"Action"
+],
+"releaseDate": "2019-07-11",
+"content": {
+"dateAdded": "2015-06-11T14:14:54.431Z",
+"duration": 5540,
+"adBreaks": [
+"00:00:00",
+"00:43:00",
+"01:32:20"
+],
+"videos": [
+{
+"url": "https://player.vimeo.com/external/218720077.hd.mp4?s=f467a41615af0fea3e6ae8ffc00cb5b75525cd77&amp;profile_id=175",
+"quality": "HD",
+"videoType": "MP4"
+}
+]
+}
+}
+],
+"shortFormVideos": [
+{
+"id": "a00a00a00a06",
+"title": "Veronique Medrano: La Pulga",
+"shortDescription": "Divertida canción tejana sobre el amor joven y la facinación con la pulga.",
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/VeroniqueMedranoPulga800x450.jpg",
+"genres": [
+"special"
+],
+"tags": [
+"Music",
+"Tejano",
+"Spanish"
+],
+"releaseDate": "2019-07-11",
+"content": {
+"dateAdded": "2015-06-11T14:14:54.431Z",
+"captions": [],
+"duration": 213,
+"adBreaks": [],
+"videos": [
+{
+"url": "https://player.vimeo.com/external/183269069.hd.mp4?s=3fedf6a2dd2641cb28cbabfd1dc7f90d52f7d96c&amp;profile_id=119",
+"quality": "HD",
+"videoType": "MP4"
+}
+]
+}
+},
+{
+"id": "a00a00a00a07",
+"title": "Monica Emid: La Complicada",
+"shortDescription": "Monica Emid canta una poderosa cancion nortena sobre una mujer poderosa en un mundo de hombres.",
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/MonicaEmidComplicada800x450.jpg",
+"genres": [
+"special"
+],
+"tags": [
+"Music",
+"Banda",
+"Norteno"
+],
+"releaseDate": "2019-07-11",
+"content": {
+"dateAdded": "2015-06-11T14:14:54.431Z",
+"captions": [],
+"duration": 169,
+"adBreaks": [],
+"videos": [
+{
+"url": "https://player.vimeo.com/external/294675710.hd.mp4?s=e1b20534570b314de46838682e02c189e5d8df50&amp;profile_id=174",
+"quality": "HD",
+"videoType": "MP4"
+}
+]
+}
+},
+{
+"id": "a00a00a00a16",
+"title": "Barnett O'hara: They're Just Not You",
+"shortDescription": "Powerful acoustic rendition about love lost and everlasting by Barnett O'hara from Brownsville, Texas.",
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/BarnettJustNotYou800x450.jpg",
+"genres": [
+"special"
+],
+"tags": [
+"Music",
+"Rock",
+"Alternative"
+],
+"releaseDate": "2019-07-11",
+"content": {
+"dateAdded": "2015-06-11T14:14:54.431Z",
+"captions": [],
+"duration": 192,
+"adBreaks": [],
+"videos": [
+{
+"url": "https://player.vimeo.com/external/149333640.hd.mp4?s=7c2f7732a61c60c63cb93f9e97349678e67b415c&amp;profile_id=113",
+"quality": "HD",
+"videoType": "MP4"
+}
+]
+}
+},
+{
+"id": "a00a00a00a09",
+"title": "Violent Disco Bingo",
+"shortDescription": "Short film written and directed by Max Rojas from Rio Grande Valley, Texas.",
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/shortViolentDisco800x450.jpg",
+"genres": [
+"action"
+],
+"tags": [
+"Short Films",
+"Shorts",
+"English"
+],
+"releaseDate": "2019-07-11",
+"content": {
+"dateAdded": "2015-06-11T14:14:54.431Z",
+"captions": [],
+"duration": 330,
+"adBreaks": [
+"00:00:00",
+"00:05:30"
+],
+"videos": [
+{
+"url": "https://player.vimeo.com/external/82061941.hd.mp4?s=977e745ff443f45d03ddc52d0dde6df27657e68e&amp;profile_id=113",
+"quality": "HD",
+"videoType": "MP4"
+}
+]
+}
+},
+{
+"id": "a00a00a00a10",
+"title": "Miss Me",
+"shortDescription": "Short film written and directed by Max Rojas from Rio Grande Valley, Texas.",
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/shortMissMe800x450.jpg",
+"genres": [
+"horror"
+],
+"tags": [
+"Short Films",
+"Shorts",
+"English"
+],
+"releaseDate": "2019-07-11",
+"content": {
+"dateAdded": "2015-06-11T14:14:54.431Z",
+"captions": [],
+"duration": 210,
+"adBreaks": [
+"00:00:00",
+"00:03:30"
+],
+"videos": [
+{
+"url": "https://player.vimeo.com/external/97045192.hd.mp4?s=85604146f1d9c0f15aee322fc920534bca42044f&amp;profile_id=119",
+"quality": "HD",
+"videoType": "MP4"
+}
+]
+}
+},
+{
+"id": "a00a00a00a11",
+"title": "Dead Space Zombies",
+"shortDescription": "Short film written and directed by Max Rojas from Rio Grande Valley, Texas.",
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/shortDeadSpaceZombies800x450.jpg",
+"genres": [
+"horror"
+],
+"tags": [
+"Short Films",
+"Shorts",
+"English"
+],
+"releaseDate": "2019-07-11",
+"content": {
+"dateAdded": "2015-06-11T14:14:54.431Z",
+"captions": [],
+"duration": 778,
+"adBreaks": [
+"00:00:00",
+"00:12:58"
+],
+"videos": [
+{
+"url": "https://player.vimeo.com/external/346451549.hd.mp4?s=e7a553a044d8612965158cd43b4c2b2d5683c93f&amp;profile_id=174",
+"quality": "HD",
+"videoType": "MP4"
+}
+]
+}
+}
+],
+"series": [
+{
+"id": "2014ShrimpersGulf",
+"title": "Shrimpers in the Gulf of Mexico",
+"genres": [
+"news"
+],
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/realityNewsShrimpersInGulf800x450.jpg",
+"releaseDate": "2019-07-30",
+"shortDescription": "Children singing at the 2016 Sombrero Festival held annually in the Rio Grande Valley, Texas.",
+"tags": [
+"Shrimpers",
+"Brownsville",
+"News"
+],
+"seasons": [
+{
+"thumbnail": "http://elvallefilms.com/vidott/list/xml/images/realityNewsShrimpersInGulf800x450.jpg",
+"seasonNumber": 1,
+"episodes": [
+{
+"id": "a00a00a00a15",
+"title": "S1E01 Captain my Captain",
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/realityNewsShrimpersInGulf800x450.jpg",
+"episodeNumber": 1,
+"releaseDate": "2019-07-30",
+"shortDescription": "Captain Juan Gaona talks about the life and dangers of immigrant shrimpers working in the Gulf of Mexico.",
+"content": {
+"dateAdded": "2016-03-03T12:35:13+00:00",
+"duration": 714,
+"adBreaks": [
+"00:00:00",
+"00:11:54"
+],
+"videos": [
+{
+"url": "https://player.vimeo.com/external/96262551.hd.mp4?s=333df1d2a727ebc7c70199d60828bb6bcf6e575c&amp;profile_id=113",
+"quality": "HD",
+"videoType": "MP4"
+}
+]
+}
+}
+]
+}
+]
+},
+{
+"id": "2019AquiEntreNosotros",
+"title": "Aqui Entre Nosotros",
+"genres": [
+"reality"
+],
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/AENSeason01800x450.jpg",
+"releaseDate": "2019-07-30",
+"shortDescription": "Entertainment/Music & Variety Interview show filmed in the Rio Grande Valley, Texas. Hosted by veteran Spanish Language Actor Julian Valdez. Join Julian as he interviews some of the best and upcoming entertainers in Latin Entertainment.",
+"tags": [
+"Sombrero Fest",
+"Brownsville",
+"Family"
+],
+"seasons": [
+{
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/AENSeason01800x450.jpg",
+"seasonNumber": 1,
+"episodes": [
+{
+"id": "a00a00a00a17",
+"title": "S1E01 - Jesus Mora :El Shaka: y Los Horizontes Del Norte",
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/AEN-S01-01-800x450.jpg",
+"episodeNumber": 1,
+"releaseDate": "2019-07-30",
+"shortDescription": "Don Julian Valdez habla con actor Jesus Mora y Daniel Castaneda con Musica por Los Horizontes Del Valle. Invitado Especial, Cayetano y Peshugas.",
+"content": {
+"dateAdded": "2016-03-03T12:35:13+00:00",
+"duration": 1742,
+"adBreaks": [
+"00:00:00",
+"00:15:14"
+],
+"videos": [
+{
+"url": "https://player.vimeo.com/external/351814935.hd.mp4?s=791571022b60403b9c2deb7c73aa4b6a983f020d&amp;profile_id=175",
+"quality": "HD",
+"videoType": "MP4"
+}
+]
+}
+},
+{
+"id": "a00a00a00a18",
+"title": "S1E02 - Manely Zepeda y Salinas De Nuevo Leon",
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/AEN-S01-02-800x450.jpg",
+"episodeNumber": 2,
+"releaseDate": "2019-07-30",
+"shortDescription": "Don Julian Valdez habla con actris Manely Zepeda y Cantante Jesus Urbina con Musica por Salinas De Nuevo Leon. Invitado Especial, Marleen's Dance  Hall",
+"content": {
+"dateAdded": "2016-03-03T12:35:13+00:00",
+"duration": 1712,
+"adBreaks": [
+"00:00:00",
+"00:15:14"
+],
+"videos": [
+{
+"url": "https://player.vimeo.com/external/351811822.hd.mp4?s=c78d15a4e4246ac28c451f5dda6b645f53f14bb1&amp;profile_id=175",
+"quality": "HD",
+"videoType": "MP4"
+}
+]
+}
+},
+{
+"id": "a00a00a00a19",
+"title": "S1E03 - David Blue Garcia y Grupo Vidal",
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/AEN-S01-03-800x450.jpg",
+"episodeNumber": 3,
+"releaseDate": "2019-07-30",
+"shortDescription": "Don Julian Valdez habla con director David Blue Garcia y Manuel Paulin con Musica por Grupo Vidal.",
+"content": {
+"dateAdded": "2016-03-03T12:35:13+00:00",
+"duration": 1712,
+"adBreaks": [
+"00:00:00",
+"00:15:14"
+],
+"videos": [
+{
+"url": "https://player.vimeo.com/external/351809510.hd.mp4?s=4e5b91617cbef54b1b536287dce64dd29dbb83ca&amp;profile_id=175",
+"quality": "HD",
+"videoType": "MP4"
+}
+]
+}
+},
+{
+"id": "a00a00a00a20",
+"title": "S1E04 - Marco Vazquez y Max Rojas",
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/AEN-S01-04-800x450.jpg",
+"episodeNumber": 4,
+"releaseDate": "2019-07-30",
+"shortDescription": "Don Julian Valdez habla con ventrolista Marco Vazquez y director Max Rojas con Musica por Salinas De Nuevo Leon. Invitados Especial, Gaby Rojas y Fabiola Cerron",
+"content": {
+"dateAdded": "2016-03-03T12:35:13+00:00",
+"duration": 1712,
+"adBreaks": [
+"00:00:00",
+"00:15:14"
+],
+"videos": [
+{
+"url": "https://player.vimeo.com/external/351818091.hd.mp4?s=1c90068f6f52d70e23fd7146dca2c8c2b21768c0&amp;profile_id=175",
+"quality": "HD",
+"videoType": "MP4"
+}
+]
+}
+},
+{
+"id": "a00a00a00a21",
+"title": "S1E05 - Joaquin Cosio y Cynthia Bustamente",
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/AEN-S01-05-800x450.jpg",
+"episodeNumber": 5,
+"releaseDate": "2019-07-30",
+"shortDescription": "Don Julian Valdez habla con actor Joaquin Cosio y cantante Cynthia Bustamente con Musica por Sarah Monique. Invitado Especial, Mariachis: Estrellas del Valle",
+"content": {
+"dateAdded": "2016-03-03T12:35:13+00:00",
+"duration": 1712,
+"adBreaks": [
+"00:00:00",
+"00:15:14"
+],
+"videos": [
+{
+"url": "https://player.vimeo.com/external/351821311.hd.mp4?s=3732a8ed140124313c1cb03a93a4a0252fc128a2&amp;profile_id=175",
+"quality": "HD",
+"videoType": "MP4"
+}
+]
+}
+},
+{
+"id": "a00a00a00a22",
+"title": "S1E06 - Luis Cantu y Lazaro Cardenas",
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/AEN-S01-06-800x450.jpg",
+"episodeNumber": 6,
+"releaseDate": "2019-07-30",
+"shortDescription": "Don Julian Valdez habla con camara commercio Luis Cantu y cantante Lazaro Cardenas con Musica por Grupo Sabor Musical.",
+"content": {
+"dateAdded": "2016-03-03T12:35:13+00:00",
+"duration": 1712,
+"adBreaks": [
+"00:00:00",
+"00:15:14"
+],
+"videos": [
+{
+"url": "https://player.vimeo.com/external/351823734.hd.mp4?s=c5081c92850c69c920bf00fa82ab071b37640f40&amp;profile_id=175",
+"quality": "HD",
+"videoType": "MP4"
+}
+]
+}
+},
+{
+"id": "a00a00a00a23",
+"title": "S1E07 - Orlando R. Medina y Academia de Acutacion Capel",
+"thumbnail": "https://elvallefilms.com/vidott/list/xml/images/AEN-S01-07-800x450.jpg",
+"episodeNumber": 7,
+"releaseDate": "2019-07-30",
+"shortDescription": "Don Julian Valdez habla con productor de cine Orlando R. Medina. Invitado Especial, Academia de Actuacion Capel",
+"content": {
+"dateAdded": "2016-03-03T12:35:13+00:00",
+"duration": 1712,
+"adBreaks": [
+"00:00:00",
+"00:15:14"
+],
+"videos": [
+{
+"url": "https://player.vimeo.com/external/351807163.hd.mp4?s=c99ffd6e0c41d6d48df36fcb56bec72c2d21578e&amp;profile_id=174",
+"quality": "HD",
+"videoType": "MP4"
+}
+]
+}
+}
+]
+}
+]
+}
+],
+"playlists": [
+{
+"name": "Drama",
+"itemIds": [
+"a00a00a00a01",
+"a00a00a00a02",
+"a00a00a00a28",
+"a00a00a00a25"
+]
+},
+{
+"name": "Action",
+"itemIds": [
+"a00a00a00a03",
+"a00a00a00a04",
+"a00a00a00a05",
+"a00a00a00a24",
+"a00a00a00a25",
+"a00a00a00a26",
+"a00a00a00a27",
+"a00a00a00a28",
+"a00a00a00a29",
+"a00a00a00a30",
+"a00a00a00a31",
+"a00a00a00a32",
+"a00a00a00a33"
+]
+},
+{
+"name": "Romance",
+"itemIds": [
+"a00a00a00a01"
+]
+},
+{
+"name": "Tejano",
+"itemIds": [
+"a00a00a00a06"
+]
+},
+{
+"name": "Banda",
+"itemIds": [
+"a00a00a00a07"
+]
+},
+{
+"name": "Rock",
+"itemIds": [
+"a00a00a00a16"
+]
+},
+{
+"name": "Shorts",
+"itemIds": [
+"a00a00a00a09",
+"a00a00a00a10",
+"a00a00a00a11"
+]
+},
+{
+"name": "RealitySeries",
+"itemIds": [
+"2019AquiEntreNosotros",
+"2014ShrimpersGulf"
+]
+}
+],
+"categories": [
+{
+"name": "Feature Dramas",
+"playlistName": "Drama",
+"order": "manual"
+},
+{
+"name": "Feature Action",
+"playlistName": "Action",
+"order": "manual"
+},
+{
+"name": "Feature Romance",
+"playlistName": "Romance",
+"order": "manual"
+},
+{
+"name": "Tejano Music",
+"playlistName": "Tejano",
+"order": "manual"
+},
+{
+"name": "Musica Banda",
+"playlistName": "Banda",
+"order": "manual"
+},
+{
+"name": "Rock N Roll",
+"playlistName": "Rock",
+"order": "manual"
+},
+{
+"name": "Short Films",
+"playlistName": "Shorts",
+"order": "manual"
+},
+{
+"name": "Reality Series",
+"playlistName": "RealitySeries",
+"order": "manual"
+}
+]
+}
